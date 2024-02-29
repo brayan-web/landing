@@ -1,0 +1,30 @@
+:root {
+    --azul: rgba(77, 153, 229, 1);
+    --verde-lab: rgba(0, 174, 142, 1);
+    --aqua: rgba(48, 223, 153, 1);
+    --verde-01: rgba(206, 247, 25, 1);
+    --amarillo: rgba(245, 236, 29, 1);
+    --negro: rgba(71, 74, 75, 1);
+    --azul-2: rgba(59, 209, 230, 1);
+    --blanco: rgba(243, 243, 243, 1);
+    --gray-scale-01: rgba(106, 106, 106, 1);
+    --grayscale-02: rgba(196, 196, 196, 1);
+    --gray-outlines-and-lines: rgba(224, 236, 236, 1);
+    --verde-lab-shade: rgba(234, 252, 245, 1);
+    --TITLE-SECCIONES-DESK-font-family: "IBM Plex Sans", Helvetica;
+    --TITLE-SECCIONES-DESK-font-weight: 600;
+    --TITLE-SECCIONES-DESK-font-size: 44px;
+    --TITLE-SECCIONES-DESK-letter-spacing: 0px;
+    --TITLE-SECCIONES-DESK-line-height: normal;
+    --TITLE-SECCIONES-DESK-font-style: normal;
+    --TITLE-DETALLE-DE-CATEGOR-AS-DESK-font-family: "IBM Plex Sans", Helvetica;
+    --TITLE-DETALLE-DE-CATEGOR-AS-DESK-font-weight: 600;
+    --TITLE-DETALLE-DE-CATEGOR-AS-DESK-font-size: 40px;
+    --TITLE-DETALLE-DE-CATEGOR-AS-DESK-letter-spacing: 0px;
+    --TITLE-DETALLE-DE-CATEGOR-AS-DESK-line-height: normal;
+    --TITLE-DETALLE-DE-CATEGOR-AS-DESK-font-style: normal;
+    --ACTIVE-MEDICOS: 0px 0px 13px 0px rgba(59, 209, 230, 0.8);
+    --ACTIVE-LABOPAT: 0px 0px 13px 0px rgba(48, 223, 153, 0.8);
+    --shadow-box-labopat: 0px 20px 15px 0px rgba(0, 0, 0, 0.03);
+  }
+  

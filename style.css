@@ -1,0 +1,78 @@
+.desk-servicios {
+    flex-direction: column;
+    width: 633px;
+    gap: 22px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    margin: auto;
+  }
+  
+  .desk-servicios .text-wrapper {
+    position: relative;
+    width: 640px;
+    margin-top: -1px;
+    margin-left: -3.5px;
+    margin-right: -3.5px;
+    font-family: "IBM Plex Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--negro);
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desk-servicios .DESK-MEN-DE {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1123px;
+    align-items: center;
+    gap: 23px 21px;
+    padding: 18px 30px;
+    position: relative;
+    flex: 0 0 auto;
+    margin-left: -245px;
+    margin-right: -245px;
+    background-color: #ffffff;
+    border-radius: 0px 0px 10px 10px;
+  }
+  
+  .desk-servicios .DESK {
+    width: 339px;
+    gap: 28px;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: var(--gray-outlines-and-lines);
+    display: flex;
+    align-items: center;
+    position: relative;
+  }
+  
+  .desk-servicios .DESK-ICONOS-DETALLE {
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .desk-servicios .DESK-TITLE-AND-SUBS {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+  }
+  
+  .desk-servicios .tienes-dudas {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1px;
+    font-family: "IBM Plex Sans-SemiBold", Helvetica;
+    font-weight: 600;
+    color: var(--verde-lab);
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
